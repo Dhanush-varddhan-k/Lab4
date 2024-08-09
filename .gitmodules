@@ -1,3 +1,6 @@
 [submodule "Assignment"]
 	path = Assignment
 	url = https://github.com/Dhanush-varddhan-k/Lab_4_2.git
+[submodule "Submodules"]
+	path = Submodules
+	url = https://github.com/Dhanush-varddhan-k/submodule_learning.git
